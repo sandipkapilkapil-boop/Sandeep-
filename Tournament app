@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MAX TOURNAMENT KING</title>
+<style>
+body{
+    margin:0;
+    font-family:Arial,sans-serif;
+    background:#111;
+    color:#fff;
+    text-align:center;
+}
+.container{
+    max-width:420px;
+    margin:30px auto;
+    padding:20px;
+    background:#1c1c1c;
+    border-radius:15px;
+    box-shadow:0 0 15px #FFD700;
+}
+h1{
+    color:#FFD700;
+}
+.card{
+    background:#2b2b2b;
+    padding:15px;
+    border-radius:10px;
+    margin:15px 0;
+}
+.join{
+    display:inline-block;
+    padding:15px 30px;
+    background:#FFD700;
+    color:#000;
+    text-decoration:none;
+    font-weight:bold;
+    border-radius:8px;
+    font-size:18px;
+}
+.join:hover{
+    background:#ffeb3b;
+}
+.rules{
+    text-align:left;
+}
+</style>
+</head>
+<body>
+
+<div class="container">
+
+<h1>🏆 MAX TOURNAMENT KING 🏆</h1>
+
+<div class="card">
+<h2>🔥 FREE FIRE TOURNAMENT 🔥</h2>
+
+<p>📅 <b>Date:</b> 19 July 2026</p>
+<p>🕙 <b>Time:</b> 10:00 AM</p>
+
+<p>💰 <b>Entry Fee:</b> ₹15</p>
+<p>🎯 <b>Per Kill:</b> ₹10</p>
+<p>👑 <b>Booyah Prize:</b> ₹15</p>
+
+<br>
+
+<a class="join" href="upi://pay?pa=7895568548-2@ybl&pn=SANDEEP%20KUMAR">
+💳 JOIN NOW
+</a>
+
+</div>
+
+<div class="card rules">
+<h3>📸 After Payment</h3>
+
+✔ Send Payment Screenshot<br>
+✔ Send Free Fire UID<br>
+✔ Send In-Game Name
+
+<br><br>
+
+<b>Rules</b><br>
+• No Hack<br>
+• No Cheat<br>
+• No Refund After Room ID<br>
+• Room ID & Password before Match<br>
+• Prize after Verification
+</div>
+
+</div>
+
+</body>
+</html>
